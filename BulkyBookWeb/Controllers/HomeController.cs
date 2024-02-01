@@ -17,7 +17,7 @@ namespace BulkyBookWeb.Controllers
         {
             return View();
         }
-        //babe
+        
         public IActionResult Privacy()
         {
             return View();
